@@ -1,0 +1,501 @@
+BEFORE: Sunday promo — 100% Match Bonus + 200EUR ndba
+AFTER : Sunday promo — 100% Match Bonus + ndba
+
+BEFORE: Sunday promo — 100% Match Bonus + 300EUR NDBA
+AFTER : Sunday promo — 100% Match Bonus + NDBA
+
+BEFORE: Sunday promo — 100% Match Bonus + 400EUR NDBA
+AFTER : Sunday promo — 100% Match Bonus + NDBA
+
+BEFORE: Sunday promo — 100% Match Bonus + 500EUR NDBA
+AFTER : Sunday promo — 100% Match Bonus + NDBA
+
+BEFORE: Sunday promo — 100% Match Bonus + 500eur NDBA
+AFTER : Sunday promo — 100% Match Bonus + NDBA
+
+BEFORE: Sunday promo — 100% Match Bonus + 700 EUR ndba
+AFTER : Sunday promo — 100% Match Bonus + ndba
+
+BEFORE: Sunday promo — 100% Match Bonus configured + 500EUR ndba
+AFTER : Sunday promo — 100% Match Bonus configured + ndba
+
+BEFORE: VIP Path Encouragement (<=3000 deposits). 100% Match Bonus and 50EUR ndba + Promotion Page Link.
+AFTER : VIP Path Encouragement (<=3000 deposits). 100% Match Bonus and ndba + Promotion Page Link.
+
+BEFORE: VIP Path Encouragement (<=3000 deposits). 100% Match Bonus and 50eur NDBA + Promotion Page Link.
+AFTER : VIP Path Encouragement (<=3000 deposits). 100% Match Bonus and NDBA + Promotion Page Link.
+
+BEFORE: d2 - potential VIP outreach + 50% DBA  and 20 eur ndba
+AFTER : d2 - potential VIP outreach + 50% DBA  and ndba
+
+BEFORE: d2 - potential VIP outreach - 150% DBA + 100eur NDBA
+AFTER : d2 - potential VIP outreach - 150% DBA + NDBA
+
+BEFORE: d2 - potential VIP outreach - 150% DBA + 20eur ndba
+AFTER : d2 - potential VIP outreach - 150% DBA + ndba
+
+BEFORE: d2 - potential VIP outreach - 150% DBA + 25eur ndba
+AFTER : d2 - potential VIP outreach - 150% DBA + ndba
+
+BEFORE: d2 - potential VIP outreach - 150% DBA + 30eur NDBA
+AFTER : d2 - potential VIP outreach - 150% DBA + NDBA
+
+BEFORE: d2 - potential VIP outreach - 150% DBA + 30eur ndba
+AFTER : d2 - potential VIP outreach - 150% DBA + ndba
+
+BEFORE: d2 - potential VIP outreach - 150% DBA + 40eur NDBA
+AFTER : d2 - potential VIP outreach - 150% DBA + NDBA
+
+BEFORE: d2 - potential VIP outreach - 150% DBA + 40eur ndba
+AFTER : d2 - potential VIP outreach - 150% DBA + ndba
+
+BEFORE: d2 - potential VIP outreach - 150% DBA + 50eur ndba
+AFTER : d2 - potential VIP outreach - 150% DBA + ndba
+
+BEFORE: d2 - potential VIP outreach - 150% DBA + 60eur ndba
+AFTER : d2 - potential VIP outreach - 150% DBA + ndba
+
+BEFORE: d2 - potential VIP outreach - 150% DBA and 20eur NDBA
+AFTER : d2 - potential VIP outreach - 150% DBA and NDBA
+
+BEFORE: d2 - potential VIP outreach - 150% DBA and 20eur ndb
+AFTER : d2 - potential VIP outreach - 150% DBA and ndb
+
+BEFORE: d2 - potential VIP outreach - 150% DBA and 20eur ndba
+AFTER : d2 - potential VIP outreach - 150% DBA and ndba
+
+BEFORE: d2 - potential VIP outreach - 150% DBA and 25eur ndba
+AFTER : d2 - potential VIP outreach - 150% DBA and ndba
+
+BEFORE: d2 - potential VIP outreach - 150% DBA and 30eur NDB
+AFTER : d2 - potential VIP outreach - 150% DBA and NDB
+
+BEFORE: d2 - potential VIP outreach - 150% DBA and 30eur NDBA
+AFTER : d2 - potential VIP outreach - 150% DBA and NDBA
+
+BEFORE: d2 - potential VIP outreach - 150% DBA and 40eur ndba
+AFTER : d2 - potential VIP outreach - 150% DBA and ndba
+
+BEFORE: d2 - potential VIP outreach - 150% DBA and 50eur ndba
+AFTER : d2 - potential VIP outreach - 150% DBA and ndba
+
+BEFORE: d2 - potential VIP outreach - 150% DBA and 60eur ndba
+AFTER : d2 - potential VIP outreach - 150% DBA and ndba
+
+BEFORE: d2 - potential VIP outreach - 200% DBA + 200eur ndba
+AFTER : d2 - potential VIP outreach - 200% DBA + ndba
+
+BEFORE: d2 - potential VIP outreach - 30eur ndba
+AFTER : d2 - potential VIP outreach - ndba
+
+BEFORE: d2 - tried to call and no answer - potential VIP outreach - 150% bonus added and 20EUR ndba
+AFTER : d2 - tried to call and no answer - potential VIP outreach - 150% bonus added and ndba
+
+BEFORE: d2 - welcome to VIP + 200% DBA + 200eur ndba
+AFTER : d2 - welcome to VIP + 200% DBA + ndba
+
+BEFORE: d2 - welcome to vip - 200% DBA + 125eur ndba
+AFTER : d2 - welcome to vip - 200% DBA + ndba
+
+BEFORE: d2 AWOL reactivation — asked for feedback + 200% DB added + 100eur NDB added
+AFTER : d2 AWOL reactivation — asked for feedback + 200% DB added + NDB added
+
+BEFORE: d2 AWOL reactivation — asked for feedback + 200% DB added + 200eur NDB added
+AFTER : d2 AWOL reactivation — asked for feedback + 200% DB added + NDB added
+
+BEFORE: d2 AWOL reactivation — asked for feedback + 200% DB added + 50eur NDB added
+AFTER : d2 AWOL reactivation — asked for feedback + 200% DB added + NDB added
+
+BEFORE: d2 no answer to my call + AWOL reactivation — asked for feedback + 200% DB added + 250eur NDB added
+AFTER : d2 no answer to my call + AWOL reactivation — asked for feedback + 200% DB added + NDB added
+
+BEFORE: d2 no answer to my call + AWOL reactivation — asked for feedback + 200% DB added + 300eur NDB added
+AFTER : d2 no answer to my call + AWOL reactivation — asked for feedback + 200% DB added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €11 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €110 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €118 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €125 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €13 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €133 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €138 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €15 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €170 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €21 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €26 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €28 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €30 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €31 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €35 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €36 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €4 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €43 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €49 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €5 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €50 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €51 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €52 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €53 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €57 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €58 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €59 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €67 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €75 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €80 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €81 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €82 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €86 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €87 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €88 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €89 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db added + €91 NDB added
+AFTER : d2 potential vip outreach + 150% db added + NDB added
+
+BEFORE: d2 potential vip outreach + 150% db and ndb
+AFTER : d2 potential vip outreach + 150% db and ndb
+
+BEFORE: d2 potential vip outreach + 150%dba + 20eur ndba
+AFTER : d2 potential vip outreach + 150%dba + ndba
+
+BEFORE: d2 potential vip outreach + 150%dba + 50eur ndba
+AFTER : d2 potential vip outreach + 150%dba + ndba
+
+BEFORE: d2 potential vip outreach + 150%dba and 0eur ndba
+AFTER : d2 potential vip outreach + 150%dba and ndba
+
+BEFORE: d2 potential vip outreach + 150%dba and 100eur ndba
+AFTER : d2 potential vip outreach + 150%dba and ndba
+
+BEFORE: d2 potential vip outreach + 150%dba and 50eur ndba
+AFTER : d2 potential vip outreach + 150%dba and ndba
+
+BEFORE: d2 potential vip outreach + 150%dba and 60eur ndba
+AFTER : d2 potential vip outreach + 150%dba and ndba
+
+BEFORE: d2 welcomed to vip + 200%dba and 250eur ndba
+AFTER : d2 welcomed to vip + 200%dba and ndba
+
+BEFORE: d4 AWOL reactivation — 200% DB added + €40 NDB x30 added
+AFTER : d4 AWOL reactivation — 200% DB added + NDB x30 added
+
+BEFORE: d4 VIP promo — 100% DB added + NDB added
+AFTER : d4 VIP promo — 100% DB added + NDB added
+
+BEFORE: d4 VIP promo — 100% DB added + ndb
+AFTER : d4 VIP promo — 100% DB added + ndb
+
+BEFORE: d4 informed about IDEAL (PM) issue will be solved soon + recommended to use other PM while + 25eur ndba for any inconvenience
+AFTER : d4 informed about IDEAL (PM) issue will be solved soon + recommended to use other PM while + ndba for any inconvenience
+
+BEFORE: d4 new month promo + 75% DBA + 100eur ndba
+AFTER : d4 new month promo + 75% DBA + ndba
+
+BEFORE: d4 new month promo + 75% DBA + 150eur ndba
+AFTER : d4 new month promo + 75% DBA + ndba
+
+BEFORE: d4 new month promo + 75% DBA + 20eur ndba
+AFTER : d4 new month promo + 75% DBA + ndba
+
+BEFORE: d4 new month promo + 75% DBA + 300eur ndba
+AFTER : d4 new month promo + 75% DBA + ndba
+
+BEFORE: d4 new month promo + 75% DBA + 30eur ndba
+AFTER : d4 new month promo + 75% DBA + ndba
+
+BEFORE: d4 new month promo + 75% DBA + 40eur ndba
+AFTER : d4 new month promo + 75% DBA + ndba
+
+BEFORE: d4 new month promo + 75% DBA +40eur ndba
+AFTER : d4 new month promo + 75% DBA +ndba
+
+BEFORE: d4 reactivation AWOL — 100% DB added + €25 NDB added
+AFTER : d4 reactivation AWOL — 100% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 100% DB added + €32 NDB added
+AFTER : d4 reactivation AWOL — 100% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 100% DB added + €56 NDB added
+AFTER : d4 reactivation AWOL — 100% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 100% DB added + €57 NDB added
+AFTER : d4 reactivation AWOL — 100% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 100% DB added + €75 NDB added
+AFTER : d4 reactivation AWOL — 100% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 100% DB added + €76 NDB added
+AFTER : d4 reactivation AWOL — 100% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 150% DB added + €20 NDB added
+AFTER : d4 reactivation AWOL — 150% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 200% DB added + €102 NDB added
+AFTER : d4 reactivation AWOL — 200% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 200% DB added + €103 NDB added
+AFTER : d4 reactivation AWOL — 200% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 200% DB added + €108 NDB added
+AFTER : d4 reactivation AWOL — 200% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 200% DB added + €117 NDB added
+AFTER : d4 reactivation AWOL — 200% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 200% DB added + €25 NDB added
+AFTER : d4 reactivation AWOL — 200% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 200% DB added + €26 NDB added
+AFTER : d4 reactivation AWOL — 200% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 200% DB added + €28 NDB added
+AFTER : d4 reactivation AWOL — 200% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 200% DB added + €31 NDB added
+AFTER : d4 reactivation AWOL — 200% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 200% DB added + €40 NDB added
+AFTER : d4 reactivation AWOL — 200% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 200% DB added + €45 NDB added
+AFTER : d4 reactivation AWOL — 200% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 200% DB added + €64 NDB added
+AFTER : d4 reactivation AWOL — 200% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 200% DB added + €75 NDB added
+AFTER : d4 reactivation AWOL — 200% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 200% DB added + €79 NDB added
+AFTER : d4 reactivation AWOL — 200% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 200% DB added + €86 NDB added
+AFTER : d4 reactivation AWOL — 200% DB added + NDB added
+
+BEFORE: d4 reactivation AWOL — 200% DB added + €93 NDB added
+AFTER : d4 reactivation AWOL — 200% DB added + NDB added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 100% DB added + €11 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 100% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 150% DB added + €100 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 150% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 150% DB added + €25 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 150% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 150% DB added + €250 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 150% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 150% DB added + €50 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 150% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 200% DB added + €150 NDB x15 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 200% DB added + NDB x15 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 200% DB added + €150 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 200% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 200% DB added + €200 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 200% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 200% DB added + €300 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 200% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 200% DB added + €40 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 200% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €100 NDB x15 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x15 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €100 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €150 NDB x15 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x15 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €150 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €200 NDB x15 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x15 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €200 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €250 NDB x15 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x15 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €294 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €300 NDB x15 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x15 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €300 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €370 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €40 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €400 NDB x15 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x15 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €400 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €50 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €500 NDB x15 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x15 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €500 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €51 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €61 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer + AWOL reactivation — 250% DB added + €98 NDB x30 added
+AFTER : d4 tried to call but no answer + AWOL reactivation — 250% DB added + NDB x30 added
+
+BEFORE: d4 tried to call but no answer: VIP promo — 100% DB added + 50 ndb x20
+AFTER : d4 tried to call but no answer: VIP promo — 100% DB added + ndb x20
+
+BEFORE: d4 tried to call but no answer: VIP promo — 100% DB added and 100eur ndb x20
+AFTER : d4 tried to call but no answer: VIP promo — 100% DB added and ndb x20
+
+BEFORE: d4 tried to call but no answer: VIP promo — 100% DB and 100eur ndb x20 added
+AFTER : d4 tried to call but no answer: VIP promo — 100% DB and ndb x20 added
+
+BEFORE: d4 tried to call but no answer: VIP promo — 100% DB and 100eur ndba x20
+AFTER : d4 tried to call but no answer: VIP promo — 100% DB and ndba x20
+
+BEFORE: d4 tried to call but no answer: VIP promo — 100% DB and 150eur ndb x20 added
+AFTER : d4 tried to call but no answer: VIP promo — 100% DB and ndb x20 added
+
+BEFORE: d4 tried to call but no answer: VIP promo — 100% DB and 200eur ndb x15 added
+AFTER : d4 tried to call but no answer: VIP promo — 100% DB and ndb x15 added
+
+BEFORE: d4 welcome to VIP Club + introduced Rodrigo as personal AM + 200% DB added + NDB added
+AFTER : d4 welcome to VIP Club + introduced Rodrigo as personal AM + 200% DB added + NDB added
+
+BEFORE: d4 welcome to VIP Club + introduced personal account manager Rodrigo + 200% dba and 100 eur ndba
+AFTER : d4 welcome to VIP Club + introduced personal account manager Rodrigo + 200% dba and ndba
+
+BEFORE: d4 welcome to VIP Club + introduced personal account manager Rodrigo + 200% dba and 100eur ndba
+AFTER : d4 welcome to VIP Club + introduced personal account manager Rodrigo + 200% dba and ndba
+
+BEFORE: d4 welcome to VIP Club + introduced personal account manager Rodrigo + 200% dba and 150eur ndba
+AFTER : d4 welcome to VIP Club + introduced personal account manager Rodrigo + 200% dba and ndba
+
+BEFORE: d4 welcome to VIP Club + introduced personal account manager Rodrigo + 200% dba and 200eur ndba
+AFTER : d4 welcome to VIP Club + introduced personal account manager Rodrigo + 200% dba and ndba
+
+BEFORE: d4 welcome to VIP Club + introduced personal account manager Rodrigo + 200% dba and 300eur ndba
+AFTER : d4 welcome to VIP Club + introduced personal account manager Rodrigo + 200% dba and ndba
+
+BEFORE: d4 welcome to vip + 200% DB abd 500eur NDBA
+AFTER : d4 welcome to vip + 200% DB abd NDBA
+
+BEFORE: d4 welcome to vip + 200% DB and  100 eur NDB
+AFTER : d4 welcome to vip + 200% DB and  NDB
+
+BEFORE: d4 welcome to vip + 200% DBA and 100eur ndb
+AFTER : d4 welcome to vip + 200% DBA and ndb
+
+BEFORE: d4 welcome to vip + 200% dba and  250eur ndba 
+AFTER : d4 welcome to vip + 200% dba and  ndba 
+
+BEFORE: d4 welcome to vip + 200%dba + 200eur ndba
+AFTER : d4 welcome to vip + 200%dba + ndba
+
+BEFORE: d4 welcome to vip + 200%dba + 300eur ndba
+AFTER : d4 welcome to vip + 200%dba + ndba
+
+BEFORE: d4 welcome to vip + 200%dba + 500eur ndba
+AFTER : d4 welcome to vip + 200%dba + ndba
+
+BEFORE: d4 welcomed to vip + 200% db and ndb added
+AFTER : d4 welcomed to vip + 200% db and ndb added
+
+BEFORE: welcome to VIP + 200EUR NDBA and 200% DBA
+AFTER : welcome to VIP + NDBA and 200% DBA
+

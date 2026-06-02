@@ -1,0 +1,19 @@
+{
+  "brands": {
+    "RoyalSpins": {
+      "apiToken": "MOCK_API_TOKEN_FOR_ROYALSPINS",
+      "teamVIP": "mock-team-vip-uuid-1",
+      "teamPotential": "mock-team-potential-uuid-2",
+      "tagID": "mock-tag-uuid-3",
+      "baseUrl": "https://a.royalspins.com"
+    },
+    "MegaJackpot": {
+      "apiToken": "MOCK_API_TOKEN_FOR_MEGAJACKPOT",
+      "teamVIP": "mock-team-vip-uuid-4",
+      "teamPotential": "mock-team-potential-uuid-5",
+      "tagID": "mock-tag-uuid-6",
+      "baseUrl": "https://a.megajackpot.com"
+    }
+  },
+  "interval": 300
+}
